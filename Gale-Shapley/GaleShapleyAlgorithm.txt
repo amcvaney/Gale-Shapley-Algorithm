@@ -1,0 +1,14 @@
+Abigayle McVaney
+CS 3364
+July 10th, 2021
+
+Gale Shapley Matching Algorithm
+
+name.(array position number)
+
+The matched couples: 
+Mike.4 Alice.1
+Larry.2 Kate.2
+Billy.5 Lily.3
+John.3 Tara.4
+Bob.1 Becky.5
